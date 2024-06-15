@@ -8,7 +8,7 @@ function App() {
     <>
       <Header />
       <Title />
-      <div className="heal-spirit w-96 absolute aspect-square">
+      <div className="w-96 absolute aspect-square -top-4 -right-48">
         <img className="" src={spirit} alt="heal_spirit" />
       </div>
     </>
