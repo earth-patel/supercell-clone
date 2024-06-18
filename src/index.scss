@@ -12,3 +12,7 @@ body {
   top:-20px;
   right: -192px;
 }
+
+.hide-scrollbar::-webkit-scrollbar{
+  display: none;
+}
